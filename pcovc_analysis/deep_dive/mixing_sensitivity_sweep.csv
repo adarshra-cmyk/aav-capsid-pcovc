@@ -1,0 +1,11 @@
+label_scheme,mixing,n_vr_in_top8
+paper_clusters,1.0,0
+paper_clusters,0.75,0
+paper_clusters,0.5,2
+paper_clusters,0.25,4
+paper_clusters,0.0,5
+independent_tissue,1.0,0
+independent_tissue,0.75,0
+independent_tissue,0.5,2
+independent_tissue,0.25,3
+independent_tissue,0.0,5

@@ -1,0 +1,37 @@
+component,tissue,method,label_scheme,loading
+PC1,blood,PCA,(unsupervised),0.2506623463552443
+PC1,blood,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.11106308146109078
+PC1,blood,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.16089911713860225
+PC1,heart,PCA,(unsupervised),0.4664242337017823
+PC1,heart,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.34987093233683697
+PC1,heart,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.29641878375395714
+PC1,kidney,PCA,(unsupervised),0.43142968351640987
+PC1,kidney,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.3051910370576041
+PC1,kidney,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.29368597497867943
+PC1,lung,PCA,(unsupervised),0.38114307087858423
+PC1,lung,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.35805914935120736
+PC1,lung,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.23937199033717235
+PC1,liver,PCA,(unsupervised),0.46235993527255465
+PC1,liver,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.3787808080836971
+PC1,liver,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.4292604554747273
+PC1,spleen,PCA,(unsupervised),0.4176583535526629
+PC1,spleen,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.27572083131556413
+PC1,spleen,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.2874348212834591
+PC2,blood,PCA,(unsupervised),0.7141764835357328
+PC2,blood,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.6095902349684713
+PC2,blood,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.4238336840199009
+PC2,heart,PCA,(unsupervised),0.09581107867539623
+PC2,heart,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.11379119302054987
+PC2,heart,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.11964755246255955
+PC2,kidney,PCA,(unsupervised),0.4057108440887125
+PC2,kidney,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),0.3263269607612981
+PC2,kidney,PCovC (mixing=0.5),tissue_of_max_deviation (independent),0.4111335642123276
+PC2,lung,PCA,(unsupervised),-0.397467475196958
+PC2,lung,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),-0.27776812563199377
+PC2,lung,PCovC (mixing=0.5),tissue_of_max_deviation (independent),-0.37952503679024124
+PC2,liver,PCA,(unsupervised),-0.3124623885670525
+PC2,liver,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),-0.23709922922302817
+PC2,liver,PCovC (mixing=0.5),tissue_of_max_deviation (independent),-0.3401962174165698
+PC2,spleen,PCA,(unsupervised),-0.24608486432112123
+PC2,spleen,PCovC (mixing=0.5),paper_clusters (PCA+Kmeans-derived),-0.22892860786469654
+PC2,spleen,PCovC (mixing=0.5),tissue_of_max_deviation (independent),-0.055869181228669546
